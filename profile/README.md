@@ -4,7 +4,6 @@
 
 Located on the UC campus in Bruce, ACT, ICC serves as a hub for co-developing digital solutions to real-world challenges.
 
----
 
 ## 🚀 Our Mission
 
@@ -14,7 +13,7 @@ To bridge the gap between research and real-world application by providing a col
 - Co-create and prototype innovative digital solutions.
 - Foster skill development and knowledge exchange.
 
----
+
 
 ## 🧩 What We Do
 
@@ -22,7 +21,7 @@ To bridge the gap between research and real-world application by providing a col
 - **Innovation Services**: Offer access to cutting-edge facilities and expertise for rapid prototyping and solution development.
 - **Educational Programs**: Run programs like the Summer Intensive, where students work alongside industry partners and academics to develop practical solutions.
 
----
+
 
 ## 🏢 Our Facilities
 
@@ -32,7 +31,7 @@ Our state-of-the-art lab provides collaborators with:
 - Tools for identifying, testing, analysing, and deploying innovative technologies.
 - A collaborative space designed to facilitate co-development and innovation.
 
----
+
 
 ## 🤝 Partnerships
 
@@ -41,7 +40,7 @@ ICC is part of a national network of Innovation Central centers, co-located on u
 - **Cisco**: Bringing decades of technological innovation and global reach to support collaborative projects.
 - **University of Canberra**: Providing academic excellence and research capabilities to drive innovation.
 
----
+
 
 ## 📍 Location
 
@@ -51,7 +50,7 @@ Building 27, Level A
 Bruce, ACT 2617  
 Australia
 
----
+
 
 ## 📫 Contact Us
 
@@ -59,6 +58,5 @@ Australia
 - **Email**: [innovationcentral@canberra.edu.au](mailto:innovationcentral@canberra.edu.au)
 - **LinkedIn**: [Innovation Central Canberra](https://www.linkedin.com/company/innovation-central-canberra)
 
----
 
 _For more information or to explore collaboration opportunities, please visit our [official website](https://icentralau.com.au/canberra/)._
